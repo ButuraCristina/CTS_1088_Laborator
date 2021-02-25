@@ -6,6 +6,7 @@ public class TestHello {
 		
 		System.out.println("Hello!"); // syso + ctrl + space
 		// !!! Alegem java project NU project !!!
+		// commit pe git -> click dr pe proiect -> Team -> Commit
 	}
 
 }
