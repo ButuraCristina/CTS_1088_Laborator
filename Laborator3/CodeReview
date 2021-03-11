@@ -1,12 +1,12 @@
 CODE Review
 
 1. Conventii de nume + valori hard-codate (magic numbers)
--numele clasei nu este okș nu sugereaza scopul clasei
--numele functiei nu este ok
--numele argumentelor functiei nu este ok
--variabila rezultat trebuie redenumita
--variabila valoare trebuie redenumita
--numele pachetului nu era ok
+- numele clasei nu este okș nu sugereaza scopul clasei
+- numele functiei nu este ok
+- numele argumentelor functiei nu este ok
+- variabila rezultat trebuie redenumita
+- variabila valoare trebuie redenumita
+- numele pachetului nu era ok
 
 - elimina valorile predefinite din functie
 
@@ -14,3 +14,6 @@ CODE Review
 
 Am modificat variabilele cu Refactor -> Rename
 
+2. Single Responsability si KISS pentru functii
+- metoda calculeaza prea multe valori intermediare
+- se repeta o parte din prelucrari
