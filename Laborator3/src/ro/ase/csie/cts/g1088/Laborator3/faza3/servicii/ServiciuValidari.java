@@ -1,4 +1,4 @@
-package ro.ase.csie.g1088.laborator3.faza3.servicii;
+package ro.ase.csie.cts.g1088.Laborator3.faza3.servicii;
 
 import ro.ase.csie.cts.g1088.Laborator3.exceptii.ExceptiePretInvalid;
 import ro.ase.csie.cts.g1088.Laborator3.exceptii.ExceptieVechimeClient;
