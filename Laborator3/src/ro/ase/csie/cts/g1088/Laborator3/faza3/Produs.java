@@ -1,9 +1,9 @@
-package ro.ase.csie.cts.g1088.laborator.faza3;
+package ro.ase.csie.cts.g1088.Laborator3.faza3;
 
 import ro.ase.csie.cts.g1088.Laborator3.exceptii.ExceptiePretInvalid;
 import ro.ase.csie.cts.g1088.Laborator3.exceptii.ExceptieVechimeClient;
-import ro.ase.csie.cts.g1088.laborator3.faza3.servicii.InterfataMarketing;
-import ro.ase.csie.cts.g1088.laborator3.faza3.servicii.InterfataValidare;
+import ro.ase.csie.cts.g1088.Laborator3.faza3.servicii.InterfataMarketing;
+import ro.ase.csie.cts.g1088.Laborator3.faza3.servicii.InterfataValidare;
 
 public class Produs {
 	
