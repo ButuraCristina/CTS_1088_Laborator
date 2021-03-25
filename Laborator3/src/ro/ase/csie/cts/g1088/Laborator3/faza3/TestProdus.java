@@ -2,12 +2,12 @@ package ro.ase.csie.cts.g1088.Laborator3.faza3;
 
 import java.util.ArrayList;
 
-import ro.ase.csie.cts.g1088.Laborator3.exceptii.ExceptiePretInvalid;
-import ro.ase.csie.cts.g1088.Laborator3.exceptii.ExceptieVechimeClient;
 import ro.ase.csie.cts.g1088.Laborator3.faza3.servicii.InterfataMarketing;
 import ro.ase.csie.cts.g1088.Laborator3.faza3.servicii.InterfataValidare;
 import ro.ase.csie.cts.g1088.Laborator3.faza3.servicii.ServiciuValidari;
 import ro.ase.csie.cts.g1088.Laborator3.faza3.servicii.StrategieMarketing2021;
+import ro.ase.csie.cts.g1088.Laborator3.exceptii.ExceptiePretInvalid;
+import ro.ase.csie.cts.g1088.Laborator3.exceptii.ExceptieVechimeClient;
 
 public class TestProdus {
 	
