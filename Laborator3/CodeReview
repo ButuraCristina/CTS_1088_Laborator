@@ -1,7 +1,7 @@
 CODE Review
 
 1. Conventii de nume + valori hard-codate (magic numbers)
-- numele clasei nu este okș nu sugereaza scopul clasei
+- numele clasei nu este ok nu sugereaza scopul clasei
 - numele functiei nu este ok
 - numele argumentelor functiei nu este ok
 - variabila rezultat trebuie redenumita
