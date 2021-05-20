@@ -10,5 +10,5 @@ utilizarea oricarei teme fara a modifica major functionalitatea
 - nu toate clasele sunt documentate
 - API-ul trebuie sa ofere o interfata simplificata pentru un set de functii de baza
 
-3. Utilizarea unei librarii externe ce contine caractere Disney.
-- in prezent jocul contine caractere proprii ce fac parte din framework-ul ACME
+3. Utilizarea unei librarii externe ce contine caractere Electronic Arts.
+- in prezent jocul contine caractere proprii ce fac parte din framework-ul ACME (Caracter Joc)
